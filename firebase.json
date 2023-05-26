@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "Select - hosting -configure",
+    "public": "practice",
     "ignore": [
       "firebase.json",
       "**/.*",
